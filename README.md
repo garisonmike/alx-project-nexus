@@ -51,17 +51,3 @@ alx-project-nexus/
 └── month-1.md
 
 ```
-
----
-
-## How to use these docs
-1. Clone / create the repo.
-2. Copy these markdown files as-is.
-3. Use Milestone 1 to set up Django + Postgres.
-4. Update Work Logs as you build.
-5. When the real backend is done, we’ll switch to “finished project” tone.
-
----
-
-
-

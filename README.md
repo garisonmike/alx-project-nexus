@@ -75,4 +75,4 @@ Project Nexus documents the end-to-end journey of backend engineering in the Pro
 
 ---
 
-© 2025 ALX, All rights reserved.
+# thanks alx africa 

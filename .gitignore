@@ -1,0 +1,8 @@
+# Ignore specific placeholder files if they have specific names
+Month 1 (Work Log).md
+Month_1_Work_Log.md
+
+# General ignores
+node_modules/
+.env
+.DS_Store
